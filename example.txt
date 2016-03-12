@@ -1,0 +1,2 @@
+http://www.example.com/example1
+http://example.com/example2
