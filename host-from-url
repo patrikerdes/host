@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-java -jar host-from-url.jar
+scriptdir="$(dirname "$(realpath "$0")")"
+
+java -jar $scriptdir/host-from-url.jar
